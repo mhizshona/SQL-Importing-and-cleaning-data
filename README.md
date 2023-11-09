@@ -15,9 +15,9 @@ _DISCLAIMER - The data used in this report does not in any way represent any ins
 1. CREATION OF DATABASE
 2. IMPORTING OF DATASET
 3. DATA CLEANING
-4. 
+4. QUERYING 
 
-## ANLYSIS
+## ANALYSIS
 
 ### DATABASE CREATION
 
@@ -99,7 +99,7 @@ WHERE Department = 'Software Development Department'
     AND Work_Life_Balance > 4
     AND Salary_and_benefits > 4.5;.
 
-    ![](T11)
+    ![](T11.png)
 
 
 **Using case statement, create a new column that specifies everything greater than 4 for the whole qualities 
@@ -121,12 +121,33 @@ WHERE Department = 'Software Development Department'
 
  - ![](A3.png)
 
+  
+ ### TASK 2.0
+ 
+A NEW DATABASE CALLED **TASK2** WAS CREATED 
+
+![](DATA2.png)
+
+### 4 tables were imported into the database and used to answer the following questions
+ 
+- Show the average yearly increment for employees in each department. Show departments with an average yearly increment greater than 5000 only.
+
+![](T22.png)
+
+- Show the names of all employees along with their department names. Include employees with no assigned department, and sort the result by employee name.
+
+![](Q2.png)
+
+- Show the total yearly salaries of employees across all designation. Show only designation with and order the results by department name.
+
+![](Q3.png)
+
 
  ## THOUGHTS
 
  SQL is english, at least thats what i think, using syntax for everything make it hard to keep up with buh whats life without challenges right?
  learning is nice, each day am reminded that no one would do it for me so i dust my ass and get to work.
- LOOKING FORWARD TO THE NET THING TO LEARN. 💂‍♂️.
+ LOOKING FORWARD TO THE NEXT THING TO LEARN. 💂‍♂️.
   
     
     
