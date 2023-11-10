@@ -126,19 +126,24 @@ WHERE Department = 'Software Development Department'
  
 A NEW DATABASE CALLED **TASK2** WAS CREATED 
 
-![](DATA2.png)
+![](data2.png)
 
 ### 4 tables were imported into the database and used to answer the following questions
  
 - Show the average yearly increment for employees in each department. Show departments with an average yearly increment greater than 5000 only.
+- 
 
 ![](T22.png)
 
+
 - Show the names of all employees along with their department names. Include employees with no assigned department, and sort the result by employee name.
+
 
 ![](Q2.png)
 
+
 - Show the total yearly salaries of employees across all designation. Show only designation with and order the results by department name.
+
 
 ![](Q3.png)
 
